@@ -1,0 +1,19 @@
+body{
+	background-image:url(south-park.jpg);
+}
+h1{
+	text-align: center;
+}
+
+p{
+	text-align:center;
+}
+
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:60%;
+	height:60%;
+	border-image: 2cm;
+	}
